@@ -194,7 +194,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="¿Qué actividad que proporciona Bienes Universitario le gusta más?"
+                android:text="¿Qué actividad que proporciona Bienestar Universitario le gusta más?"
                 android:textColor="@color/black"
                 android:textSize="16dp" />
 
@@ -291,6 +291,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/btn_enviar"
             android:text="ENVIAR" />
     </LinearLayout>
 </ScrollView>
