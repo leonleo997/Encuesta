@@ -23,7 +23,6 @@ public class Inicio extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i = new Intent(Inicio.this, Estadisticas.class);
                 startActivity(i);
-                finish();
             }
         });
 
@@ -33,7 +32,6 @@ public class Inicio extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i=new Intent(Inicio.this, NuevoRegistro.class);
                 startActivity(i);
-                finish();
             }
         });
     }

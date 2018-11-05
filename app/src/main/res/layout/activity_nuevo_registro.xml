@@ -60,7 +60,7 @@
                     android:textSize="16dp" />
 
                 <RadioButton
-                    android:id="@+id/ib_p1_op3"
+                    android:id="@+id/rb_p1_op3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Más de 3" />

@@ -6,5 +6,12 @@
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
 
+    <color name="red">#ff0000</color>
+    <color name="blue">#0c29ff</color>
+    <color name="yellow">#ffe434</color>
+    <color name="green">#1bff23</color>
+    <color name="orange">#ff571a</color>
+
+
 
 </resources>
