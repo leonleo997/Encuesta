@@ -138,7 +138,7 @@ public class Estadisticas extends AppCompatActivity {
                     xEntries.add(xData.get(i));
                 }
 
-                PieDataSet pieDataSet = new PieDataSet(yEntries, "Answers");
+                PieDataSet pieDataSet = new PieDataSet(yEntries, "Respuesta");
                 pieDataSet.setSliceSpace(2);
                 pieDataSet.setValueTextSize(12);
 
